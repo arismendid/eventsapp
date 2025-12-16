@@ -1,2 +1,2 @@
-# eventsapp
-eventsapp - k8s class
+# eventsappstart
+This is a simple events app
